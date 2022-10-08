@@ -14,9 +14,9 @@
 
 From google drive download the Andean and Nepali iSAFE stats: 
 
-[Andean iSAFE download]([https://drive.google.com/file/d/1WlEtl6IwZhPVdzxg00OtzwjnZN156cr7/view?usp=sharing](https://drive.google.com/file/d/1WlEtl6IwZhPVdzxg00OtzwjnZN156cr7/view?usp=sharing))
+**Andean iSAFE download:** https://drive.google.com/file/d/1WlEtl6IwZhPVdzxg00OtzwjnZN156cr7/view?usp=sharing
 
-[Nepali iSAFE download]([https://drive.google.com/file/d/1kws_OKlMxL3xuekXGVh2N2zVGSYWzvDm/view?usp=sharing](https://drive.google.com/file/d/1kws_OKlMxL3xuekXGVh2N2zVGSYWzvDm/view?usp=sharing))
+**Nepali iSAFE download:** https://drive.google.com/file/d/1kws_OKlMxL3xuekXGVh2N2zVGSYWzvDm/view?usp=sharing
 
 
 
