@@ -38,7 +38,7 @@ where CHR, POS are chromosome and positions, VARIANT is chr_pos, iSAFE is a scor
 ### Test for collectively selected genomic regions in the two highlanders genomes
 
 1. Overlap the signals
-   1. Group variants that are close enough to each other in both populations (distance ≤ 200mb). If multiple variants are present in the same 200 mb window, keep all of them.
+   1. Group variants that are close enough to each other in both populations (distance ≤ 200kb). If multiple variants are present in the same 200 mb window, keep all of them.
    2. Check the LD between the two variants in the world (this is not the best practice but it should be fastest way to do it. We will definitely use a better approach later) The LD between the two variants can be checked very quickly using LDlink - LDpop ([https://ldlink.nci.nih.gov/?tab=ldpop](https://ldlink.nci.nih.gov/?tab=ldpop)). For population, select ALL.
 2. Calculate compound iSAFE score 
    1. Compound iSAFE score = (Andean iSAFE * Nepali iSAFE)^0.5
